@@ -1,4 +1,6 @@
-<h1 align="center">Olá! Eu me chamo Rafael Lima!</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Ol%C3%A1!%20Me%20chamo%20Rafael%20Lima.&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=onedark"  />
+</div>
 
 ###
 
